@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PLANBUS</string>
+    <string name="email">E-Mail</string>
+    <string name="sifre">Şifre</string>
+    <string name="sifreYeniden">Şifre Yeniden</string>
+    <string name="girisYap">Giriş Yap</string>
+    <string name="hesapOlustur">Hesap Oluştur >></string>
+    <string name="hesapOlustur2">Hesap Oluştur</string>
+    <string name="sifremiUnuttum">Şifremi Unuttum</string>
+    <string name="sifreGonder">Şifre Gönder</string>
+    <string name="kullaniciAdi">Kullanıcı Adı</string>
+    <string name="kayitOl">Kayıt Ol</string>
+    <string name="hesapVarMi">Zaten hesabınız var mı?</string>
+    <string name="anasayfa">Anasayfa</string>
+    <string name="notlarim">Notlarım</string>
+    <string name="hedeflerim">Hedeflerim</string>
+    <string name="harita">Harita</string>
+    <string name="takvim">Takvim</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_close">Close</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="cikisYap">Çıkış Yap</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="home">Anasayfa</string>
+    <string name="timer">Zamanlayıcı</string>
+    <string name="fastNote">Hızlı Not</string>
+    <string name="yaklasanHedefler">Yaklaşan Hedefler</string>
+    <string name="sifreGuncelleme">Şifre Güncelleme</string>
+    <string name="dilSec">Dil Seçiniz</string>
+    <string name="turkce">Türkçe</string>
+    <string name="ingilizce">İngilizce</string>
+    <string name="dilAyari">Dil Ayarları</string>
+    <string name="mevcutSifre">Mevcut Şifreniz</string>
+    <string name="yeniSifre">Yeni Şifreniz</string>
+    <string name="sifremiGuncelle">Şifremi Güncelle</string>
+    <string name="diliSec">Dili Seç</string>
+    <string name="yerEkle">+ Yer Ekle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

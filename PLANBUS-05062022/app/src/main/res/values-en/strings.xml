@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PLANBUS</string>
+    <string name="email">E-Mail</string>
+    <string name="sifre">Password</string>
+    <string name="sifreYeniden">Password Again</string>
+    <string name="girisYap">Login</string>
+    <string name="hesapOlustur">Create Account >></string>
+    <string name="hesapOlustur2">Create Account</string>
+    <string name="sifremiUnuttum">Forget Password</string>
+    <string name="sifreGonder">Send Password</string>
+    <string name="kullaniciAdi">User Name</string>
+    <string name="kayitOl">Register</string>
+    <string name="hesapVarMi">Already have an account?</string>
+    <string name="anasayfa">Home</string>
+    <string name="notlarim">My Notes</string>
+    <string name="hedeflerim">My Goals</string>
+    <string name="harita">Map</string>
+    <string name="takvim">Calendar</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_close">Close</string>
+    <string name="ayarlar">Settings</string>
+    <string name="cikisYap">Logout</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="home">Home</string>
+    <string name="timer">Timer</string>
+    <string name="fastNote">Fast Note</string>
+    <string name="yaklasanHedefler">Upcoming Goals</string>
+    <string name="sifreGuncelleme">Update Password</string>
+    <string name="dilSec">Select Language</string>
+    <string name="turkce">Turkish</string>
+    <string name="ingilizce">English</string>
+    <string name="dilAyari">Language Settings</string>
+    <string name="diliSec">Chose Language</string>
+    <string name="mevcutSifre">Current Password</string>
+    <string name="yeniSifre">New Password</string>
+    <string name="sifremiGuncelle">Update Password</string>
+    <string name="yerEkle">+ Add Place</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

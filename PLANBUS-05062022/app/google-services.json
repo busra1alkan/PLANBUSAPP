@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265364447197",
+    "project_id": "planbus-67521",
+    "storage_bucket": "planbus-67521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265364447197:android:0f3a7dd76583b85e17e034",
+        "android_client_info": {
+          "package_name": "com.bee.planbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265364447197-nvfkk94cc675o6ebdhqctu96bsnmlplo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBH-MfA1wRck5ZR_Er93DlyrxdVC0mu00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265364447197-nvfkk94cc675o6ebdhqctu96bsnmlplo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

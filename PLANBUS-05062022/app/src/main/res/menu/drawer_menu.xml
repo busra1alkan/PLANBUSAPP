@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view" >
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/anasayfa" />
+        <!--<item
+            android:id="@+id/nav_note"
+            android:icon="@drawable/ic_baseline_edit_note_24"
+            android:title="@string/notlarim" />-->
+        <item
+            android:id="@+id/nav_target"
+            android:icon="@drawable/ic_baseline_notes_24"
+            android:title="@string/hedeflerim" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_baseline_map_24"
+            android:title="@string/harita" />
+        <!--<item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/ic_baseline_calendar_month_24"
+            android:title="@string/takvim" />-->
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="@string/ayarlar" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_logout_24"
+            android:title="@string/cikisYap" />
+    </group>
+
+</menu>
+
